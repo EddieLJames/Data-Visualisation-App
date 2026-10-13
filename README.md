@@ -1,2 +1,4 @@
 # Data-Visualisation-App
- An R shiny data visualisation app showcasing various r plots for specific data types
+
+R shiny and python data visualisation apps showcasing various r and python plots for specific data types
+
